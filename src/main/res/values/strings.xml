@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="moscow">Moscow</string>
+    <string name="_5">+5°</string>
+    <string name="_F">+41°F</string>
+    <string name="strong_wind">≈ strong wind</string>
+    <string name="_730_mm">730 mm</string>
+    <string name="peterburg">Peterburg</string>
+    <string name="celsius_fahrenheit">f</string>
+</resources>
